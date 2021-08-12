@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="BSD-3-Clause"
+
+[[mods]]
+modId="user_stat"
+version="${file.jarVersion}"
+displayName="UserStat"
+credits=""
+authors="TeaConMC"
+description="Track total play time, last login time, etc. for each users."
